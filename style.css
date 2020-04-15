@@ -59,7 +59,7 @@ h1, h2, p {
 @media only screen and (max-width: 64rem) {
 
   .about-me {
-    height: 30vh;
+    height: 20vh;
   }
 }
 #text {
