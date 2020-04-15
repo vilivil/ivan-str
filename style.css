@@ -75,18 +75,9 @@ h1, h2, p {
 }
 
 .end {
-  height: 20vh;
+  height: 10vh;
   display: flex;
   justify-content: center;
   align-items: center;
   flex-direction: column;
-}
-
-.made-by {
-  padding-bottom: 30px;
-}
-.footer-profile {
-  height: 100px;
-  width: 100px;
-  border-radius: 100px;
 }
